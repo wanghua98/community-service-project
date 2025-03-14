@@ -1,3 +1,0 @@
-实体类（Plain Old Java Object），映射数据库表或JSON数据结构
-`controller`（请求入口） → `service`（业务逻辑） → `mapper`（数据操作） → `Pojo`（数据实体）
-静态资源和配置文件则通过`resources`目录统一管理。
