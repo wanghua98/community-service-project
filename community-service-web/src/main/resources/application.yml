@@ -3,13 +3,13 @@ spring:
   application:
     name: community-service-web
 
-# 数据源配置
-#  datasource:
-#
-#    url: jdbc:mysql://localhost:3306/mydb
-#    username: root
-#    password: 1234
-#    driver-class-name: com.mysql.cj.jdbc.Driver
+ #数据源配置
+  datasource:
+
+    url: jdbc:mysql://localhost:3306/mydb
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
 
 #  mybatis
   mybatis:
