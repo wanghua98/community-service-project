@@ -1,0 +1,3 @@
+数据持久层接口（如MyBatis Mapper），定义数据库操作。
+`controller`（请求入口） → `service`（业务逻辑） → `mapper`（数据操作） → `Pojo`（数据实体）
+静态资源和配置文件则通过`resources`目录统一管理。
